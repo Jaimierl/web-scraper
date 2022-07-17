@@ -22,3 +22,4 @@ The returned string is formatted with each citation listed in the order found.
 
 See the code for [The Web Scraper](scraper.py) by clicking on the highlighted words!
 
+Worked with Brian Tarte
